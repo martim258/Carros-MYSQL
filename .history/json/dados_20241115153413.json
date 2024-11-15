@@ -1,0 +1,34 @@
+{
+    "carros": [
+        {
+            "id": "1",
+            "Marca": "Ferrari",
+            "Detalhes": "F8",
+            "Foto": "https:\/\/www.motor24.pt\/files\/2019\/03\/1681733_Ferrari_F8_Tributo_4-800x533_c.jpg"
+        },
+        {
+            "id": "2",
+            "Marca": "McLaren",
+            "Detalhes": "720s Spider",
+            "Foto": "<"
+        },
+        {
+            "id": "3",
+            "Marca": "Toyota",
+            "Detalhes": "Yaris",
+            "Foto": "https:\/\/kong-proxy-intranet.toyota-europe.com\/c1-images\/resize\/ccis\/680x680\/zip\/pt\/product-token\/24fa8b9e-44ea-4531-9234-fd52520edb42\/vehicle\/711ec3dc-4a7b-4f22-a9bb-89ef4f8d0fa4\/padding\/50,50,50,50\/image-quality\/70\/day-exterior-04_m19.png"
+        },
+        {
+            "id": "4",
+            "Marca": "peugeot",
+            "Detalhes": "206",
+            "Foto": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/21\/2002_Peugeot_206_LX_1.4_Front.jpg"
+        },
+        {
+            "id": "5",
+            "Marca": "Porsche",
+            "Detalhes": "911",
+            "Foto": "https:\/\/www.escapelivre.com\/wp-content\/uploads\/2024\/05\/PORSCHE_911_2024_CARRERA_CARRERAGTS_HYBRID_12-scaled.jpg"
+        }
+    ]
+}
